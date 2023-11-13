@@ -1,0 +1,10 @@
+﻿  win32_platform.cpp
+C:\Users\cpans\source\repos\my_awesome_game\my_first_cpp_game\renderer.cpp(43,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\cpans\source\repos\my_awesome_game\my_first_cpp_game\renderer.cpp(44,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\cpans\source\repos\my_awesome_game\my_first_cpp_game\renderer.cpp(45,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\cpans\source\repos\my_awesome_game\my_first_cpp_game\renderer.cpp(46,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  my_first_cpp_game.vcxproj -> C:\Users\cpans\source\repos\my_awesome_game\my_first_cpp_game\x64\Release\my_first_cpp_game.exe
